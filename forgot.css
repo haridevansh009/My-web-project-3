@@ -1,0 +1,23 @@
+.login-box input[type="email"],
+.login-box input[type="password"],
+.login-box input[type="number"]
+ {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    background: #222;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+}
+.login-box input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background: #ff0000;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+}

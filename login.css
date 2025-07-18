@@ -1,0 +1,74 @@
+/* Apply this CSS to the entire page */
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('images/gym-with-red-light-red-light-wall_1086760-227457.jpg');
+    background-size: cover; /* Make sure the image covers the entire viewport */
+    background-position: center; /* Center the image */
+    background-attachment: fixed; /* Fix the background image in place */
+    color: white; /* Set text color to white for contrast */
+    font-family: Arial, sans-serif; /* Set a default font */
+  }
+  
+  /* Style for the login container */
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+  }
+  
+  .login-form {
+    background: rgba(0, 0, 0, 0.7); /* Semi-transparent background for the form */
+    padding: 20px;
+    border-radius: 10px; /* Optional: rounded corners for the form */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional: shadow for a subtle 3D effect */
+    width: 100%;
+    max-width: 400px; /* Limit the width of the form */
+  }
+  
+  .form-title {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #333; /* Dark background for input fields */
+    color: white;
+  }
+  
+  /* Button styles */
+  .btn-submit {
+    background-color: #cc0000; /* Default button color */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-image 0.3s ease, background-color 0.3s ease; /* Smooth transition for background changes */
+  }
+  
+  /* Button hover effect */
+  .btn-submit:hover {
+    background-color: transparent; /* Remove default color */
+    background-image: url('images/gym-with-red-light-red-light-wall_1086760-227457.jpg'); /* Background image on hover */
+    background-size: cover; /* Cover the button area */
+    background-position: center; /* Center the image */
+    color: white; /* Ensure text remains readable */
+  }
+  

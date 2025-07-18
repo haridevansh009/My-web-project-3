@@ -1,58 +1,54 @@
-Key Parts:
-<header>:
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/fitlife)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/fitlife?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/fitlife?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/dmif_yP7cZw?style=social)](https://youtu.be/dmif_yP7cZw)
 
-Contains the gym name and a simple navigation menu.
+  <br />
+  <br />
 
-<nav> holds links to different sections of the site like Home, About, Programs, and Contact.
+  <h2 align="center">Fitlife - Fitness Website</h2>
 
-<section class="hero">:
+  Fitlife is a fully responsive fitness website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-This is the main intro area (often called a "hero section").
+  <a href="https://codewithsadee.github.io/fitlife/"><strong>➥ Live Demo</strong></a>
 
-It includes:
+</div>
 
-A headline (<h2>)
+<br />
 
-A short description (<p>)
+### Demo Screeshots
 
-A "Join Now" button that triggers a JavaScript function when clicked.
+![Fitlife Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-Key Parts:
-<header>:
+### Prerequisites
 
-Contains the gym name and a simple navigation menu.
+Before you begin, ensure you have met the following requirements:
 
-<nav> holds links to different sections of the site like Home, About, Programs, and Contact.
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-<section class="hero">:
+### Run Locally
 
-This is the main intro area (often called a "hero section").
+To run **Fitlife** locally, run this command on your git bash:
 
-It includes:
+Linux and macOS:
 
-A headline (<h2>)
+```bash
+sudo git clone https://github.com/codewithsadee/fitlife.git
+```
 
-A short description (<p>)
+Windows:
 
-A "Join Now" button that triggers a JavaScript function when clicked.
+```bash
+git clone https://github.com/codewithsadee/fitlife.git
+```
 
-Key Parts:
-<header>:
+### Contact
 
-Contains the gym name and a simple navigation menu.
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
-<nav> holds links to different sections of the site like Home, About, Programs, and Contact.
+### License
 
-<section class="hero">:
-
-This is the main intro area (often called a "hero section").
-
-It includes:
-
-A headline (<h2>)
-
-A short description (<p>)
-
-A "Join Now" button that triggers a JavaScript function when clicked.
-
-# My-web-project-3
+This project is **free to use** and does not contains any license.
